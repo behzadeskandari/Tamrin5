@@ -2,8 +2,8 @@ namespace Tamrin5
 {
     public class Shape
     {
-        private readonly int Tooal;
-        private readonly int Arrz;
+        private int Tooal;
+        private int Arrz;
         public int Masahat;
         public Shape(int Tooal,int Arrz)
         {
